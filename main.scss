@@ -12,7 +12,7 @@ section {
 }
 #one div {
 	$num-colors: 6;
-	$base-color: #fd6467;
+	$base-color: #899da4;
 	$amount: 4%;
 
 	@for $i from 0 to $num-colors {
@@ -23,7 +23,7 @@ section {
 }
 #two div {
 	$num-colors: 6;
-	$base-color: #fd6467;
+	$base-color: #899da4;
 	$amount: 12%;
 
 	@for $i from 0 to $num-colors {

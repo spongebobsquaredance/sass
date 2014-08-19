@@ -10,27 +10,27 @@ section {
     display: inline-block; }
 
 #one div:nth-child(0) {
-  background-color: #fd6467; }
+  background-color: #899da4; }
 #one div:nth-child(1) {
-  background-color: #fd787b; }
+  background-color: #95a7ad; }
 #one div:nth-child(2) {
-  background-color: #fe8c8f; }
+  background-color: #a0b0b6; }
 #one div:nth-child(3) {
-  background-color: #fea0a2; }
+  background-color: #acbabf; }
 #one div:nth-child(4) {
-  background-color: #feb5b6; }
+  background-color: #b7c3c8; }
 #one div:nth-child(5) {
-  background-color: #fec9ca; }
+  background-color: #c3cdd0; }
 
 #two div:nth-child(0) {
-  background-color: #fd6467; }
+  background-color: #899da4; }
 #two div:nth-child(1) {
-  background-color: #fc282c; }
+  background-color: #687f87; }
 #two div:nth-child(2) {
-  background-color: #e40307; }
+  background-color: #4e5f65; }
 #two div:nth-child(3) {
-  background-color: #a70205; }
+  background-color: #333e42; }
 #two div:nth-child(4) {
-  background-color: #6b0103; }
+  background-color: #181e20; }
 #two div:nth-child(5) {
-  background-color: #2e0101; }
+  background-color: black; }

@@ -22,15 +22,13 @@ section {
 #one div:nth-child(5) {
   background-color: #c3cdd0; }
 
-#two div:nth-child(0) {
-  background-color: #899da4; }
 #two div:nth-child(1) {
-  background-color: #687f87; }
-#two div:nth-child(2) {
-  background-color: #4e5f65; }
-#two div:nth-child(3) {
-  background-color: #333e42; }
-#two div:nth-child(4) {
-  background-color: #181e20; }
-#two div:nth-child(5) {
   background-color: black; }
+#two div:nth-child(2) {
+  background-color: #424e55; }
+#two div:nth-child(3) {
+  background-color: #576871; }
+#two div:nth-child(4) {
+  background-color: #62757f; }
+#two div:nth-child(5) {
+  background-color: #697d88; }

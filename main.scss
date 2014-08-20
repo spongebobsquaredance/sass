@@ -23,14 +23,16 @@ section {
 }
 
 //Trying something from: http://tallpixels.com/advanced-sass-mixins/
+
 #two div {
 	$num-colors: 6;
-	$base-color: #899da4;
-	$hue-change: 5deg;
+	$base_color: darkslateblue;
+	$hue_change: 10deg;
+	$amount: 10%;
 
-	@for $i from 1 to $num-colors {
+	@for $i from 0 to $num-colors {
 		&:nth-child(#{$i}) {
-			background-color: darken(adjust-hue($base_color, $hue_change), lightness($base_color) / $i )
+			background-color: lighten(adjust-hue($base_color, $hue_change), $amount * $i ) 
 		}
 	}
 }

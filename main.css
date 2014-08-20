@@ -22,13 +22,15 @@ section {
 #one div:nth-child(5) {
   background-color: #c3cdd0; }
 
+#two div:nth-child(0) {
+  background-color: #553d8b; }
 #two div:nth-child(1) {
-  background-color: black; }
+  background-color: #6b4dae; }
 #two div:nth-child(2) {
-  background-color: #424e55; }
+  background-color: #876ec0; }
 #two div:nth-child(3) {
-  background-color: #576871; }
+  background-color: #a592cf; }
 #two div:nth-child(4) {
-  background-color: #62757f; }
+  background-color: #c2b5df; }
 #two div:nth-child(5) {
-  background-color: #697d88; }
+  background-color: #dfd9ee; }
